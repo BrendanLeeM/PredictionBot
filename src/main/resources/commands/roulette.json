@@ -1,0 +1,11 @@
+{
+  "name": "roulette",
+  "description": "Wager points on a spin for a chance to win.",
+  "options": [{
+    "name":"wager",
+    "description": "Enter how many points you wish to wager.",
+    "type": 3,
+    "required": true
+  }
+  ]
+}

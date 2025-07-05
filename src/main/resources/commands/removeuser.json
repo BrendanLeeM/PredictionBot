@@ -1,0 +1,11 @@
+{
+  "name": "removeuser",
+  "description": "Admin Only. Remove a user from the server.",
+  "options": [{
+    "name":"username",
+    "description": "Enter one of the users in your server. You must enter their discord username, not a nickname",
+    "type": 3,
+    "required": true
+  }
+  ]
+}

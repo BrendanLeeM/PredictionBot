@@ -1,0 +1,16 @@
+{
+  "name": "removepoints",
+  "description": "Admin Only. Remove points from a user.",
+  "options": [{
+    "name":"user",
+    "description": "Enter one of the users in your server.",
+    "type": 6,
+    "required": true
+  } , {
+    "name":"amount",
+    "description": "Enter how many points you wish to remove.",
+    "type": 3,
+    "required": true
+  }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "startprediction",
+  "description": "Begin a prediction session.",
+  "options": [{
+    "name":"title",
+    "description": "Title of your prediction session. Example: Who will win this game?",
+    "type": 3,
+    "required": true
+  } , {
+    "name":"option1",
+    "description": "First option of the outcome of your prediction session.",
+    "type": 3,
+    "required": true
+  },
+    {
+      "name":"option2",
+      "description": "Second option of the outcome of your prediction session.",
+      "type": 3,
+      "required": true
+    }
+  ]
+}

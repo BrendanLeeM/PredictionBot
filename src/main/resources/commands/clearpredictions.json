@@ -1,0 +1,4 @@
+{
+  "name": "clearpredictions",
+  "description": "Cancels ongoing predictions. Use when there is an issue ending the prediction with buttons."
+}

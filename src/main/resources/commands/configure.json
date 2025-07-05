@@ -1,0 +1,4 @@
+{
+  "name": "configure",
+  "description": "Admin Only. Configure a role which can modify predictions, starting points and daily points."
+}

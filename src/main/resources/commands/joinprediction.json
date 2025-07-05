@@ -1,0 +1,16 @@
+{
+  "name": "joinprediction",
+  "description": "Join a prediction session.",
+  "options": [{
+    "name":"option",
+    "description": "Enter one of the options from the current prediction session.",
+    "type": 3,
+    "required": true
+  } , {
+    "name":"wager",
+    "description": "Enter how many points you wish to wager.",
+    "type": 3,
+    "required": true
+  }
+  ]
+}

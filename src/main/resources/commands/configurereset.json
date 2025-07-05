@@ -1,0 +1,11 @@
+{
+  "name": "configurereset",
+  "description": "Configure reset for the prediction bot.",
+  "options": [{
+    "name":"days",
+    "description": "Enter number of days between point resets.",
+    "type": 4,
+    "required": true
+  }
+  ]
+}

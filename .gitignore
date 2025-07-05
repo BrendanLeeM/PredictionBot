@@ -5,5 +5,5 @@
 target/
 *.idea
 logs/
-
+.DS_Store
 /logs/app.log

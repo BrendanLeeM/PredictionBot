@@ -1,0 +1,4 @@
+{
+  "name": "resetpoints",
+  "description": "Admin Only. Reset all points for all users back to configured starting points."
+}

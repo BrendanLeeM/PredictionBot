@@ -1,0 +1,4 @@
+{
+  "name": "dailypoints",
+  "description": "This command will grant you points once a day. The timer resets at midnight CST."
+}
