@@ -1,0 +1,9 @@
+*.class
+*/target/**
+*/.idea/**
+*.jar
+target/
+*.idea
+logs/
+
+/logs/app.log
